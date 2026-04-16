@@ -8,7 +8,9 @@ Analizar el comportamiento de ventas de una tienda global para identificar tende
 
 ## 📸 Vista del Dashboard
 
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="https://github.com/12chas/Global_Super_Store/raw/f1d27d4c82c1e7300c095f6bef7e5fa9c7ba76ff/image.png" width="800"/>
+</p>
 
 ---
 
